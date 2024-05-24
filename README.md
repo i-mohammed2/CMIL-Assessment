@@ -2,8 +2,10 @@
 
 ## Running the project
 
-This project was built within Anaconda Environment. The conda environment is attached in the repo.
+This project was built within Anaconda Environment.
 The version of Python used is 3.11.5. The modules necessary are os, pandas, numpy, tensorflow, sklearn, matplotlib
+
+The model is available for download via Google Drive @ https://drive.google.com/file/d/1dJecfWYHqSX5kjef3b7353aK1HeYw7BD/view?usp=sharing
 
 Once run ensure that the data is formatted in the structure as follows:
 ```
@@ -14,6 +16,7 @@ Once run ensure that the data is formatted in the structure as follows:
 --public.csv
 -Evaluation.py
 -CMIL_model.py
+-glomeruli_model.h5
 ```
 
 Run the evaluation.py file to run the project. An evaluation.csv file will be created if the program compiles successfully
