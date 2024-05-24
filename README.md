@@ -6,6 +6,7 @@ This project was built within Anaconda Environment. The conda environment is att
 The version of Python used is 3.11.5. The modules necessary are os, pandas, numpy, tensorflow, sklearn, matplotlib
 
 Once run ensure that the data is formatted in the structure as follows:
+```
 (Project Folder)
 -(Public)
 --(globally_sclerotic_glomeruli)
@@ -13,6 +14,7 @@ Once run ensure that the data is formatted in the structure as follows:
 --public.csv
 -Evaluation.py
 -CMIL_model.py
+```
 
 Run the evaluation.py file to run the project. An evaluation.csv file will be created if the program compiles successfully
 
